@@ -1,0 +1,102 @@
+.text-black{
+	color: black;
+}
+.top{
+	margin-right: 50px;
+}
+.top2{
+	margin-top: 40px;
+}
+.top3{
+	margin-top: 140px;
+}
+.top4{
+	margin-top: 10px;
+}
+.t97{
+	margin-top: 97px;
+}
+.t50{
+	margin-top: 50px;
+}
+.top5{
+	margin-right: 25px;
+}
+.top6{
+	margin-left: 90px;
+}
+.pb-6{
+	margin-bottom: 80px;
+}
+.pb-7{
+	margin-bottom: 150px;
+}
+.fondo{
+	background-image: url("../img/textura_2.jpg");
+	background-repeat: no-repeat;
+	height: 250px;
+	width: 103.6%;
+	margin-top: -20px;
+}
+.fondo2{
+	background-image: url("../img/cubes.png");
+	background-repeat: no-repeat;
+	height: 350px;
+}
+.fondo3{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	position: right;
+	margin-left: 500px;
+}
+.pd-5-10{
+	padding: 5% 10%;
+}
+.fut{
+	margin-top: -58px;
+	margin-left: 60px;
+}
+.studio3{
+	font-size: 80px;
+}
+.font40{
+	font-size: 40px;
+}
+.font20{
+	font-size: 20px;
+}
+.font14{
+	font-size: 14px;
+}
+.font20{
+	font-size: 20px;
+}
+.pad{
+	padding: 10px;
+}
+.h4{
+	text-anchor: 5px;
+}
+.todas{
+	margin-left: 10px;}
+.bluepie{
+	background-color: #192951;
+	height: 80px;
+	width: 104.6%;
+}
+.button{
+	width: 180px;
+	height: 60px;
+    background:#192951;
+    display:inline-block;
+    margin:0 6px;
+    padding:2% 8%;
+    color:white;
+    text-decoration:none;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.hoja{
+	padding-right: 50px;
+	margin-left: -500px;
+}

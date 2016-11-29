@@ -1,0 +1,30 @@
+.fondo1{
+	background-image: url("../img/dance_7.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 450px;
+}
+.bg-blue{
+	background-color: #192951;
+	height: 500px;
+	width: 103.6%;
+}
+.mosaico{
+	height: 200px;
+	width: 200px;
+}
+.black{
+	background-color: black;
+	opacity: 0.5;
+	width: 500px;
+	height: 150px;
+	margin-left: 430px;
+}
+.borT{
+	padding: 10px 20px 0px 10px;
+	border-top: 2px solid rgb(83, 88, 95);
+	margin-top: 5px;
+}
+.mosaico2{
+		margin-left: -100px;
+}
